@@ -78,7 +78,7 @@ const Hero = () => {
           </div>
 
           <div
-            className="bg-black md:w-1/2 w-5/8 items-end"
+            className=" md:w-1/2 w-5/8 flex justify-end items-end"
             data-aos="fade-left"
             data-aos-delay="500"
           >
