@@ -78,7 +78,7 @@ const Hero = () => {
           </div>
 
           <div
-            className="lg:max-w-lg lg:w-full md:w-1/2 w-5/8"
+            className=" md:w-1/2 w-5/8"
             data-aos="fade-left"
             data-aos-delay="500"
           >
