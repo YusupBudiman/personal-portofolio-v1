@@ -9,11 +9,7 @@ import myHero from "../assets/Hero.webp";
 const Hero = () => {
   return (
     <div className="relative overflow-hidden min-h-[550px] sm:min-h-[600px] flex flex-col">
-      <div
-        className="md:h-[420px] md:w-[340px] h-[660px] w-[580px] right-56 bg-gradient-to-r from-red-600 via-blue-600 to-green-400 absolute 
-        rounded-full transform rotate-12 top-8 shadow-[0_0_100px_rgba(225,165,0,0.7)] z-0"
-        aria-hidden="true"
-      ></div>
+     
 
       <section
         className="text-gray-500 body-font z-10"
