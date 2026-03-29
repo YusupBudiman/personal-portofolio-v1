@@ -12,7 +12,7 @@ const Hero = () => {
      
 
       <section
-        className="text-gray-500 body-font z-10"
+        className="flex items-center justify-center text-gray-500 body-font z-10"
         data-aos="fade-up"
         data-aos-delay="250"
       >
